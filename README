@@ -1,1 +1,3 @@
-This file was created by IntelliJ IDEA 12.1.7 for binding GitHub repository
+Source code for http://javamemento.blogspot.no/2016/05/jira-confluence-3.html
+
+Contains a small script that uses the Jira REST API to get a JQL search result, and the Confluence REST API to update a page with a graph.
